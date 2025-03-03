@@ -1,10 +1,10 @@
 {
   "ios": {
-    "version": 2,
+    "version": 3,
     "url": "https://raw.githubusercontent.com/baonguyenkyanon/ota-update-tbp/iOS/main.jsbundle.zip"
   },
   "android": {
-    "version": 2,
+    "version": 3,
     "url": "https://raw.githubusercontent.com/baonguyenkyanon/ota-update-tbp/android/index.android.bundle.zip"
   }
 }
